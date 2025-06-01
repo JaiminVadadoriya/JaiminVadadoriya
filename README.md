@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaimin Vadadoriya
+# 👋 Hi, I'm [Jaimin Vadadoriya](https://github.com/jaiminvadadoriya)
 
 🎯 **Software Developer | Full Stack Enthusiast | Flutter & Angular Specialist**
 
