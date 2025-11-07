@@ -39,6 +39,7 @@ Welcome to my GitHub! I'm a passionate software developer who loves building sca
 
 - 🔗 Portfolio: [jaiminvadadoriya.github.io](https://jaiminvadadoriya.github.io/)
 - 📫 Email: vadadoriyajaimin@gmail.com
+- 🧩 Leetcode: [leetcode.com/u/patel_jaimin](https://leetcode.com/u/patel_jaimin/)
 - 📱 Phone: +91 6353728521
 
 ---
