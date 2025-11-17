@@ -1,65 +1,97 @@
-# 👋 Hi, I'm [Jaimin Vadadoriya](https://github.com/jaiminvadadoriya)
+# Hi there, I'm Jaimin Vadadoriya 👋
 
-🎯 **Software Developer | Full Stack Enthusiast | Flutter & Angular Specialist**
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiminvadadoriya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://jaiminvadadoriya.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vadadoriyajaimin@gmail.com)
 
-Welcome to my GitHub! I'm a passionate software developer who loves building scalable and user-centric web and mobile applications. I enjoy solving problems with code, collaborating in hackathons, and continuously learning new technologies.
+</div>
 
----
+## 🚀 About Me
+
+Software Engineer @ InnoEra Inc. | AI/ML Enthusiast | Full-Stack Developer
+
+I'm passionate about building intelligent systems that solve real-world problems. From training neural networks to crafting seamless user experiences, I love working across the entire stack to bring ideas to life.
+
+- 🔭 Currently working on **Agentic AI solutions** and **production ML systems**
+- 🌱 Exploring **Generative AI**, **Model Optimization**, and **Edge Computing**
+- 💬 Ask me about **Machine Learning**, **Computer Vision**, **React**, or **System Design**
+- 🎯 2025 Goals: Contribute more to open source and master advanced ML architectures
+- ⚡ Fun fact: I reduced ML inference time by 40% through model quantization on my last project!
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, C, C++, Java
-- **Frontend**: Angular, React, HTML, CSS, Bootstrap
-- **Mobile**: Flutter
-- **Backend**: C# (ASP.NET), TypeScript
-- **Data Science Tools**: Pandas, NumPy, Matplotlib
-- **Other Skills**: Data Manipulation, Data Visualization, Problem Solving
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat)
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 🤖 Real-Time Defect Detection System
+Computer vision system optimized for edge devices using TensorFlow Lite
+- ⚡ 40% faster inference time through model quantization
+- 🎯 92% accuracy on manufacturing defect classification
+- 🔧 Streamlit interface for real-time visualization
+
+### 🎬 Movie Recommendation Classifier
+Neural network-based recommendation system with PyTorch
+- 🧠 Deep learning with user/item embeddings
+- 📊 85% precision in predicting user preferences
+- 🔄 Custom loss functions for personalization
+
+### 📻 Modern Radio Party Platform
+Real-time audio streaming with synchronized chat
+- 🌐 Supports 500+ concurrent users
+- ⚡ WebSocket-based real-time communication
+- 📈 99.5% uptime with fault-tolerant design
+
+### 🛍️ E-Commerce Recommendation Engine
+Collaborative filtering system with Flask API
+- 🚀 Sub-200ms response time
+- 📈 23% improvement in click-through rate
+- 🧪 A/B testing framework for optimization
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaiminvadadoriya&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiminvadadoriya&layout=compact&theme=radical)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on exciting projects, especially in AI/ML and full-stack development. Feel free to reach out!
+
+- 💼 LinkedIn: [linkedin.com/in/jaiminvadadoriya](https://linkedin.com/in/jaiminvadadoriya)
+- 🌐 Portfolio: [jaiminvadadoriya.github.io](https://jaiminvadadoriya.github.io)
+- 📧 Email: vadadoriyajaimin@gmail.com
 
 ---
 
-## 👨‍💻 Current Role
+<div align="center">
+  
+💡 *"Building intelligent systems, one commit at a time"*
 
-**Software Engineer at InnoEra, Inc.** (Sep 2023 – Present)  
-- Developing feature-rich UI using Angular and Bootstrap  
-- Improved code efficiency by 20% using C#, TypeScript, and front-end best practices
-
----
-
-## 🚀 Achievements
-
-- 🏆 **Amrit Mahotsav Hackathon 2022 (State Level Finalist)**  
-  Led a team to the Grand Finale with an innovative tech solution
-
-- 👨‍💻 **Code's Up Coding Group**  
-  Active member solving complex DSA problems and contributing to peer learning
-
----
-
-## 🌐 Connect with Me
-
-- 🔗 Portfolio: [jaiminvadadoriya.github.io](https://jaiminvadadoriya.github.io/)
-- 📫 Email: vadadoriyajaimin@gmail.com
-- 🧩 Leetcode: [leetcode.com/u/patel_jaimin](https://leetcode.com/u/patel_jaimin/)
-- 📱 Phone: +91 6353728521
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate 🚀
-
-
-<!--
-**JaiminVadadoriya/JaiminVadadoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
